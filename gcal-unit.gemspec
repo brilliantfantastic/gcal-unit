@@ -33,7 +33,6 @@ Gem::Specification.new do |s|
     README.md
     Rakefile
     bootstrapper/Gemfile
-    bootstrapper/Gemfile.lock
     bootstrapper/config.ru
     example.env
     gcal-unit.gemspec
