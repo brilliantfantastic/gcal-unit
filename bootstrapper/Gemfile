@@ -1,0 +1,8 @@
+source :rubygems
+
+gem 'rake'
+gem 'rack'
+gem 'sinatra'
+gem 'dotenv'
+gem 'omniauth'
+gem 'omniauth-google-oauth2'
