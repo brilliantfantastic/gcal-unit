@@ -5,8 +5,8 @@ Gem::Specification.new do |s|
   s.rubygems_version = '1.3.5'
 
   s.name              = 'gcal-unit'
-  s.version           = '1.0.0'
-  s.date              = '2012-08-30'
+  s.version           = '1.0.1'
+  s.date              = '2012-11-09'
   s.rubyforge_project = 'gcal-unit'
 
   s.summary     = "Pimp ass API wrapper for the Google Calendar API."
